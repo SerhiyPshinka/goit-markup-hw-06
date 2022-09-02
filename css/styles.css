@@ -925,7 +925,7 @@ fill: var(--accent-color);
 
 .modal-form-chek:checked + .modal-form-check-desc::before {
 
-  background-image: url(./images/dz6/check.svg);
+  background-image: url(../images/dz6/check.svg);
   background-color: #2196f3;
     background-position: center;
     box-shadow: var(--transition-speed), background-image var(--transition-speed),
